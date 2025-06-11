@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Kaushik</h1>
-<h3 align="center">A Pre-Final Year B.Tech Student</h3>
+<h3 align="center">A Final Year B.Tech Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryannkaushikk&label=Profile%20views&color=0e75b6&style=flat" alt="aryannkaushikk" /> </p>
 
